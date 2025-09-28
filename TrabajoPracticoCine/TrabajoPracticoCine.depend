@@ -1,0 +1,35 @@
+# depslib dependency file v1.0
+1758991714 source:c:\users\ded27\onedrive\escritorio\programasc\programacionunla\trabajopracticocine\cliente.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+
+1758991714 source:c:\users\ded27\onedrive\escritorio\programasc\programacionunla\trabajopracticocine\funcion.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+
+1758991714 source:c:\users\ded27\onedrive\escritorio\programasc\programacionunla\trabajopracticocine\pelicula.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+
+1758991714 source:c:\users\ded27\onedrive\escritorio\programasc\programacionunla\trabajopracticocine\reserva.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+
+1758991714 source:c:\users\ded27\onedrive\escritorio\programasc\programacionunla\trabajopracticocine\sala.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+
+1758991714 source:c:\users\ded27\onedrive\escritorio\programasc\programacionunla\trabajopracticocine\utils.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+
+1759064952 source:c:\users\ded27\onedrive\escritorio\programasc\programacionunla\trabajopracticocine\main.c
+	<stdio.h>
+	<stdlib.h>
+

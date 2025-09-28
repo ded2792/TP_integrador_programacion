@@ -1,0 +1,6 @@
+#ifndef SALA_H_INCLUDED
+#define SALA_H_INCLUDED
+
+
+
+#endif // SALA_H_INCLUDED
