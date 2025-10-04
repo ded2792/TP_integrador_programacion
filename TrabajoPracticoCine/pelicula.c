@@ -3,9 +3,7 @@
 #include <string.h>
 #include "pelicula.h"
 
-// ==============================================
-// IMPLEMENTACIÓN DE FUNCIONES DE PELÍCULA
-// ==============================================
+// IMPLEMENTACIÓN DE FUNCIONES DE PELICULA
 
 // Función para crear una película vacía
 Pelicula peliculaVaciaCrear() {

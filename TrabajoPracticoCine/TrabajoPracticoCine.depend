@@ -33,9 +33,7 @@
 	<stdio.h>
 	<stdlib.h>
 
-1759067117 source:c:\users\ded27\onedrive\escritorio\programasc\tp_integrador_programacion\trabajopracticocine\cliente.c
-	<stdio.h>
-	<stdlib.h>
+1759543901 source:c:\users\ded27\onedrive\escritorio\programasc\tp_integrador_programacion\trabajopracticocine\cliente.c
 	<stdbool.h>
 
 1759067117 source:c:\users\ded27\onedrive\escritorio\programasc\tp_integrador_programacion\trabajopracticocine\funcion.c
@@ -43,27 +41,51 @@
 	<stdlib.h>
 	<stdbool.h>
 
-1759064952 source:c:\users\ded27\onedrive\escritorio\programasc\tp_integrador_programacion\trabajopracticocine\main.c
+1759543726 source:c:\users\ded27\onedrive\escritorio\programasc\tp_integrador_programacion\trabajopracticocine\main.c
 	<stdio.h>
 	<stdlib.h>
+	<string.h>
+	"pelicula.h"
+	"sala.h"
+	"cliente.h"
+	"utils.h"
 
-1759067170 source:c:\users\ded27\onedrive\escritorio\programasc\tp_integrador_programacion\trabajopracticocine\pelicula.c
+1759542427 source:c:\users\ded27\onedrive\escritorio\programasc\tp_integrador_programacion\trabajopracticocine\pelicula.c
 	<stdio.h>
 	<stdlib.h>
-	<stdbool.h>
+	<string.h>
+	"pelicula.h"
 
 1759067170 source:c:\users\ded27\onedrive\escritorio\programasc\tp_integrador_programacion\trabajopracticocine\reserva.c
 	<stdio.h>
 	<stdlib.h>
 	<stdbool.h>
 
-1759067170 source:c:\users\ded27\onedrive\escritorio\programasc\tp_integrador_programacion\trabajopracticocine\sala.c
+1759543726 source:c:\users\ded27\onedrive\escritorio\programasc\tp_integrador_programacion\trabajopracticocine\sala.c
 	<stdio.h>
 	<stdlib.h>
+	<string.h>
+	"sala.h"
+
+1759542784 source:c:\users\ded27\onedrive\escritorio\programasc\tp_integrador_programacion\trabajopracticocine\utils.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<stdbool.h>
+	"utils.h"
+
+1759363040 c:\users\ded27\onedrive\escritorio\programasc\tp_integrador_programacion\trabajopracticocine\pelicula.h
 	<stdbool.h>
 
-1759067170 source:c:\users\ded27\onedrive\escritorio\programasc\tp_integrador_programacion\trabajopracticocine\utils.c
-	<stdio.h>
-	<stdlib.h>
+1759363140 c:\users\ded27\onedrive\escritorio\programasc\tp_integrador_programacion\trabajopracticocine\sala.h
 	<stdbool.h>
+
+1759363292 c:\users\ded27\onedrive\escritorio\programasc\tp_integrador_programacion\trabajopracticocine\cliente.h
+	<stdbool.h>
+
+1759542700 c:\users\ded27\onedrive\escritorio\programasc\tp_integrador_programacion\trabajopracticocine\utils.h
+	<stdbool.h>
+	"cliente.h"
+	"pelicula.h"
+	"sala.h"
 
